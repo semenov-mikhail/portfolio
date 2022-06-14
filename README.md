@@ -5,7 +5,7 @@
 Страница находится в процессе наполнения. 
 
 # Мои проекты
-- [SQL и получение данных - Учебный проект в Нетологии](https://github.com/semenov-mikhail/portfolio/blob/main/final_work_sql_msemenov.pdf), [SQL запросы к работе]()
+- [SQL и получение данных - Учебный проект в Нетологии](https://github.com/semenov-mikhail/portfolio/blob/main/final_work_sql_msemenov.pdf) / [SQL запросы к работе](https://github.com/semenov-mikhail/portfolio/blob/main/diploma_work_MSemenov_sql-40.sql)
 
 # Мои сертификаты
 
