@@ -8,5 +8,5 @@
 
 # Мои сертификаты
 
-- [x] SQL и получение данных
-- [х] Основы аналитики и аналитического мышления
+- SQL и получение данных https://github.com/semenov-mikhail/portfolio/blob/main/sql_cert_msemenov.pdf
+- Основы аналитики https://github.com/semenov-mikhail/portfolio/blob/main/analytics_basics_cert_msemenov.pdf
