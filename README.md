@@ -18,3 +18,4 @@ PostgreSQL, Python, Apache Spark, Tableau, KNIME, Google Data Studio, Flourish, 
 - [SQL и получение данных](https://github.com/semenov-mikhail/portfolio/blob/main/sql_cert_msemenov.pdf)
 - [Основы аналитики](https://github.com/semenov-mikhail/portfolio/blob/main/analytics_basics_cert_msemenov.pdf)
 - [Big Data](https://github.com/semenov-mikhail/portfolio/blob/main/bigdata_certificate_MSemenov.pdf)
+- [DataVizArt: Основы визуализации данных](https://github.com/semenov-mikhail/portfolio/blob/main/cert_Semenov_DataViz.pdf)
